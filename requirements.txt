@@ -1,0 +1,8 @@
+jupyterlab
+lxml
+matplotlib
+pandas
+wheel
+openpyxl
+xlrd
+ipympl
